@@ -69,7 +69,9 @@ v1.1.0 起这条路径**连同该权限声明一起删除了**：本模块任何
 详见应用内用户协议（EULA）。每个 Release 都会公布 APK 的 SHA-256，安装前请核对，防二次打包冒充。
 
 ## 反馈支持
-- 模块问题请在本仓库提交 issue：
-  https://github.com/Xposed-Modules-Repo/com.juwanh.autoqqpet/issues
-- 使用说明与下载入口（项目主页）：
+本仓库只是安装分发用的镜像，**不在这里提 issue**（在这里发的反馈很容易被漏看，也没人跟进）。
+- 问题反馈与建议（附上运行日志最好）请发到项目主页仓库的 Issues：
+  https://github.com/Juwan-Hwang/Autoqqpet/issues
+  App 内「设置 → 反馈问题」会自动把运行状态与当日日志一并带到新 issue 页面。
+- 下载与使用说明（项目主页）：
   https://github.com/Juwan-Hwang/Autoqqpet
