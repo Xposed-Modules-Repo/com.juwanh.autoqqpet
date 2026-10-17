@@ -12,9 +12,9 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/Xposed-Modules-Repo/com.juwanh.autoqqpet/releases/latest">模块仓库</a>
   &nbsp;·&nbsp;
-  <a href="CHANGELOG.md">更新日志</a>
+  <a href="https://github.com/Juwan-Hwang/Autoqqpet/blob/main/CHANGELOG.md">更新日志</a>
   &nbsp;·&nbsp;
-  <a href="LICENSE.md">许可协议</a>
+  <a href="https://github.com/Juwan-Hwang/Autoqqpet/blob/main/LICENSE.md">许可协议</a>
 </p>
 
 ---
